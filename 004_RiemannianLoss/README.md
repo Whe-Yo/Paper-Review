@@ -44,3 +44,6 @@ LOG (Log-Euclidean Metric)
 &emsp; - Fillard가 정의  
 &emsp; - symmetric positive definite(?)의 새로운 행렬 구성  
 &emsp; - Riemnannian metrics에 의해 유도됨
+
+$T_i$와 $T_j$의 geodesic distance
+&emsp; - $$
