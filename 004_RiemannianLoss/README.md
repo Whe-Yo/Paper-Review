@@ -40,3 +40,7 @@ l2 Loss (MSE)는 PSNR의 주요 측정값이다.
 &emsp; - l1 loss의 성공을 이용  
 &emsp; - Geodesic Distance의 l1 norm을 측정
 
+LOG (Log-Euclidean Metric)
+&emsp; - Fillard가 정의
+&emsp; - symmetric positive definite(?)의 새로운 행렬 구성
+&emsp; - Riemnannian metrics에 의해 
